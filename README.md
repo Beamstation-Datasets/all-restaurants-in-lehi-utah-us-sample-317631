@@ -1,6 +1,6 @@
 # All Restaurants in Lehi, Utah, US
 
-> Free BeamStation sample export with 13 rows and masked direct-contact fields.
+> Free BeamStation sample export with 12 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `317631` |
 | Location | Lehi |
 | Category | Restaurants |
-| Full dataset size | 138 records |
-| Free sample size | 13 records (9.42%) |
-| Last export | 2026-04-14T20:24:04.387295+00:00 |
+| Full dataset size | 125 records |
+| Free sample size | 12 records (9.6%) |
+| Last export | 2026-04-21T22:36:36.340582+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lehi-utah-us-sample-317631/releases/download/sample-latest/beamstation_317631_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
