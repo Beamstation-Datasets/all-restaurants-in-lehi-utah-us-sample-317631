@@ -1,12 +1,12 @@
 {
-  "export_job_id": "de243da4-7f2f-4719-ac05-1ece19f571b1",
+  "export_job_id": "0602e8e3-6f0f-44dc-90b4-c42bed944fa2",
   "id_short": 317631,
-  "published_at": "2026-04-29T07:32:51Z",
+  "published_at": "2026-05-08T19:06:45Z",
   "repo_name": "all-restaurants-in-lehi-utah-us-sample-317631",
   "sample_asset_name": "beamstation_317631_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/317631/beamstation_317631_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 14,
-  "sample_sha256": "71dadc01c48ba11851162c09c2f60288d64dc5617a612b05bfb4cee985d2e4aa",
-  "sample_size_bytes": 61614,
-  "total_records": 144
+  "sample_records": 15,
+  "sample_sha256": "1488d8ae9fcabf8b4cfe1189a3511adc4208114fb762566730f3c9ace78329c1",
+  "sample_size_bytes": 70194,
+  "total_records": 154
 }
